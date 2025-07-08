@@ -1,0 +1,34 @@
+h1 {
+    text-align:center;
+    color:white;
+}
+body{
+    background-color:rgb(34, 5, 162);
+}
+h2{
+color:white;
+font-size:30px;
+
+
+}
+p{
+    color:rgb(225, 225, 225);
+    font-size: 25px;
+    font-family:emoji;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+.Vertical{
+width:300px;
+height:500px;
+} 
+.Info{
+    color:red;
+    font-size:15px;
+    font-family: fantasy;
+}
+footer{
+    background-color: beige;
+}
